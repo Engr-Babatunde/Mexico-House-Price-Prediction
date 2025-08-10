@@ -42,14 +42,10 @@ It involves cleaning and merging multiple datasets, performing exploratory data 
 
     Evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² score.
 
-📈 Results
-    The final model achieved [Insert R² score here]% accuracy on the test set.
-
-    Key insight: [Insert your main finding, e.g., "Apartment size and location had the highest correlation with price"].
 
 🛠️ Technologies Used
     Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 
     Jupyter Notebook
 
-    Kaggle (dataset source)
+    Kaggle (/kaggle/input/mexico-city-real-estate-dataset)
